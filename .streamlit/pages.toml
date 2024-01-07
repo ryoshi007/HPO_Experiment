@@ -1,0 +1,49 @@
+[[pages]]
+path = "Home.py"
+name = "Home"
+icon = ""
+
+[[pages]]
+path = "section/Dataset_Intro.py"
+name = "Dataset Overview and EDA"
+icon = ""
+
+[[pages]]
+path = "section/Tuning_Method_Intro.py"
+name = "HyperTune 101"
+icon = ""
+
+[[pages]]
+path = "section/Predict_Churn.py"
+name = "Predict Churn"
+icon = ""
+
+[[pages]]
+path = "section/Tuning_Lab.py"
+name = "Tuning Lab"
+icon = ""
+
+[[pages]]
+path = "section/Results_Findings.py"
+name = "Results and Findings"
+icon = ""
+
+[[pages]]
+path = "section/Grid_Search_Intro.py"
+name = "Grid Search Intro"
+icon = ""
+
+[[pages]]
+path = "section/Half_Grid_Search_Intro.py"
+name = "Half Grid Search Intro"
+icon = ""
+
+[[pages]]
+path = "section/Simulated_Annealing_Intro.py"
+name = "Simulated Annealing Intro"
+icon = ""
+
+[[pages]]
+path = "section/Genetic_Algorithm_Intro.py"
+name = "Genetic Algorithm Intro"
+icon = ""

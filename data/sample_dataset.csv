@@ -1,0 +1,21 @@
+total_trans_ct,total_ct_chng_q4_q1,total_revolving_bal,contacts_count_12_mon,avg_utilization_ratio,total_trans_amt,months_inactive_12_mon,total_relationship_count,total_amount_chg_q4_q1,credit_limit,gender,dependent_count,marital_status_married,income_category
+49,0.485,377,4,0.222,2799,4,3,1.048,1697,Female,0,No,Less than $40K
+66,0.571,1887,2,0.376,4391,2,6,0.806,5014,Male,3,Yes,$80K - $120K
+32,0.524,1452,3,0.181,1084,3,5,0.929,8004,Male,2,Yes,$80K - $120K
+45,0.607,0,3,0,2275,3,6,0.557,1684,Female,3,Yes,Less than $40K
+63,0.537,2517,1,0.476,4525,1,6,0.674,5284,Female,1,No,Less than $40K
+60,0.818,2126,3,0.321,3668,2,6,1.041,6622,Female,1,No,Unknown
+44,0.571,1477,3,0.75,2493,4,6,0.662,1970,Female,1,No,Unknown
+87,0.554,1051,1,0.133,7677,2,1,0.729,7926,Female,3,No,Less than $40K
+63,0.658,1214,2,0.212,3685,1,4,0.858,5715,Male,4,Yes,$60K - $80K
+16,0.231,0,2,0,738,2,3,0.419,7225,Female,2,Yes,$40K - $60K
+75,0.596,1901,4,0.649,4041,3,3,0.638,2930,Male,3,No,$80K - $120K
+78,0.814,564,2,0.209,4813,2,6,0.683,2699,Female,3,No,Less than $40K
+44,0.63,0,4,0,2146,5,5,0.656,1438.3,Female,2,Yes,Less than $40K
+37,0.423,1213,2,0.071,1371,2,3,0.604,17131,Male,1,No,$60K - $80K
+64,0.829,545,4,0.031,3523,3,4,0.905,17345,Female,3,No,Unknown
+56,1,0,2,0,2703,2,2,0.789,1576,Female,3,No,Less than $40K
+31,0.824,2411,2,0.816,1896,2,4,0.971,2956,Male,3,Yes,$60K - $80K
+43,0.387,1030,2,0.408,2767,3,3,0.714,2527,Male,2,Yes,$60K - $80K
+26,0.444,2517,2,0.867,996,3,4,0.821,2902,Male,2,Yes,$40K - $60K
+48,0.6,2250,2,0.909,4659,2,2,0.969,2476,Male,2,Yes,$60K - $80K

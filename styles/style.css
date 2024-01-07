@@ -1,0 +1,29 @@
+header {visibility: hidden;}
+footer {visibility: hidden;}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.gif-container {
+    width: 50%;
+    background-color: #cccccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-container {
+    width: 50%;
+}
+
+.text-container h1 {
+    margin-bottom: 10px;
+}
+
+.text-container p {
+    line-height: 1.5;
+}
+

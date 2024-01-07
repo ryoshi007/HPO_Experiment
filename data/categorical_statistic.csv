@@ -1,0 +1,5 @@
+Unnamed: 0,Attrition_Flag,Gender,Education_Level,Marital_Status,Income_Category,Card_Category
+count,10127,10127,10127,10127,10127,10127
+unique,2,2,7,4,6,4
+top,Existing Customer,F,Graduate,Married,Less than $40K,Blue
+freq,8500,5358,3128,4687,3561,9436

@@ -1,0 +1,7 @@
+setup.py
+customtool/__init__.py
+customtool/smalltools.py
+customtool.egg-info/PKG-INFO
+customtool.egg-info/SOURCES.txt
+customtool.egg-info/dependency_links.txt
+customtool.egg-info/top_level.txt
