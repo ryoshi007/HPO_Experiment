@@ -158,10 +158,10 @@ Have **more** different sets of solutions -> **Greater** exploratory capability
         st.markdown("""
 **Total Average Manhattan Distance Variations Rank**
 
-1. Genetic Algorithm
-2. Simulated Annealing
-3. Half Grid Search
-4.Grid Search
+1. Genetic Algorithm  
+2. Simulated Annealing  
+3. Half Grid Search  
+4. Grid Search  
         """)
 
     st.write("### ")
