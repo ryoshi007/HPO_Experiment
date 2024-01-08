@@ -44,7 +44,7 @@ def generate_data(data):
 
 def load_page():
     st.set_page_config(
-        # page_title="Tuning Methods Intro",
+        page_title="HPO Experiment",
         page_icon=smalltools.page_icon(),
         layout='wide'
     )

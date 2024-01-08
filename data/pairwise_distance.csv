@@ -1,0 +1,161 @@
+﻿Method,Manhattan Distance,Model
+Simulated Annealing,0,Logistic Regression
+Simulated Annealing,0,Logistic Regression
+Simulated Annealing,2,Logistic Regression
+Simulated Annealing,4.047619048,Logistic Regression
+Simulated Annealing,0,Logistic Regression
+Simulated Annealing,2,Logistic Regression
+Simulated Annealing,4.047619048,Logistic Regression
+Simulated Annealing,2,Logistic Regression
+Simulated Annealing,4.047619048,Logistic Regression
+Simulated Annealing,4.047619048,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Half Grid Search,0,Logistic Regression
+Half Grid Search,0,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Half Grid Search,0,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Half Grid Search,2,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Grid Search,0,Logistic Regression
+Genetic Algorithm,2.19047619,Logistic Regression
+Genetic Algorithm,4.047619048,Logistic Regression
+Genetic Algorithm,2,Logistic Regression
+Genetic Algorithm,2,Logistic Regression
+Genetic Algorithm,2.238095238,Logistic Regression
+Genetic Algorithm,2.19047619,Logistic Regression
+Genetic Algorithm,2.19047619,Logistic Regression
+Genetic Algorithm,4.047619048,Logistic Regression
+Genetic Algorithm,4.047619048,Logistic Regression
+Genetic Algorithm,2,Logistic Regression
+Simulated Annealing,2,Support Vector Classifier
+Simulated Annealing,0.222222222,Support Vector Classifier
+Simulated Annealing,0,Support Vector Classifier
+Simulated Annealing,0.222222222,Support Vector Classifier
+Simulated Annealing,2.222222222,Support Vector Classifier
+Simulated Annealing,2,Support Vector Classifier
+Simulated Annealing,2.222222222,Support Vector Classifier
+Simulated Annealing,0.222222222,Support Vector Classifier
+Simulated Annealing,0,Support Vector Classifier
+Simulated Annealing,0.222222222,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Half Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Grid Search,0,Support Vector Classifier
+Genetic Algorithm,3,Support Vector Classifier
+Genetic Algorithm,0.222222222,Support Vector Classifier
+Genetic Algorithm,0.222222222,Support Vector Classifier
+Genetic Algorithm,0.222222222,Support Vector Classifier
+Genetic Algorithm,3.222222222,Support Vector Classifier
+Genetic Algorithm,3.222222222,Support Vector Classifier
+Genetic Algorithm,3.222222222,Support Vector Classifier
+Genetic Algorithm,0,Support Vector Classifier
+Genetic Algorithm,0,Support Vector Classifier
+Genetic Algorithm,0,Support Vector Classifier
+Simulated Annealing,2.45,Random Forest Classifier
+Simulated Annealing,2.45,Random Forest Classifier
+Simulated Annealing,2,Random Forest Classifier
+Simulated Annealing,2.45,Random Forest Classifier
+Simulated Annealing,0,Random Forest Classifier
+Simulated Annealing,0.45,Random Forest Classifier
+Simulated Annealing,0,Random Forest Classifier
+Simulated Annealing,0.45,Random Forest Classifier
+Simulated Annealing,0,Random Forest Classifier
+Simulated Annealing,0.45,Random Forest Classifier
+Half Grid Search,2.825,Random Forest Classifier
+Half Grid Search,1.125,Random Forest Classifier
+Half Grid Search,0.625,Random Forest Classifier
+Half Grid Search,3.225,Random Forest Classifier
+Half Grid Search,2.7,Random Forest Classifier
+Half Grid Search,2.2,Random Forest Classifier
+Half Grid Search,3.65,Random Forest Classifier
+Half Grid Search,0.5,Random Forest Classifier
+Half Grid Search,3.35,Random Forest Classifier
+Half Grid Search,3.85,Random Forest Classifier
+Grid Search,0.45,Random Forest Classifier
+Grid Search,1.2,Random Forest Classifier
+Grid Search,0.325,Random Forest Classifier
+Grid Search,0.25,Random Forest Classifier
+Grid Search,0.75,Random Forest Classifier
+Grid Search,0.125,Random Forest Classifier
+Grid Search,0.2,Random Forest Classifier
+Grid Search,0.875,Random Forest Classifier
+Grid Search,0.95,Random Forest Classifier
+Grid Search,0.325,Random Forest Classifier
+Genetic Algorithm,3.75,Random Forest Classifier
+Genetic Algorithm,3.8,Random Forest Classifier
+Genetic Algorithm,1.675,Random Forest Classifier
+Genetic Algorithm,1.925,Random Forest Classifier
+Genetic Algorithm,0.95,Random Forest Classifier
+Genetic Algorithm,2.325,Random Forest Classifier
+Genetic Algorithm,2.825,Random Forest Classifier
+Genetic Algorithm,2.875,Random Forest Classifier
+Genetic Algorithm,2.125,Random Forest Classifier
+Genetic Algorithm,0.75,Random Forest Classifier
+Simulated Annealing,2.625843124,Gradient Boosting Classifier
+Simulated Annealing,1.517014019,Gradient Boosting Classifier
+Simulated Annealing,1.914285714,Gradient Boosting Classifier
+Simulated Annealing,0.485714286,Gradient Boosting Classifier
+Simulated Annealing,3.171428571,Gradient Boosting Classifier
+Simulated Annealing,2.140128838,Gradient Boosting Classifier
+Simulated Annealing,2.140128838,Gradient Boosting Classifier
+Simulated Annealing,1.031299733,Gradient Boosting Classifier
+Simulated Annealing,1.031299733,Gradient Boosting Classifier
+Simulated Annealing,1.428571429,Gradient Boosting Classifier
+Half Grid Search,1.002728304,Gradient Boosting Classifier
+Half Grid Search,1.4,Gradient Boosting Classifier
+Half Grid Search,0,Gradient Boosting Classifier
+Half Grid Search,0.459871162,Gradient Boosting Classifier
+Half Grid Search,1.602728304,Gradient Boosting Classifier
+Half Grid Search,1.002728304,Gradient Boosting Classifier
+Half Grid Search,0.542857143,Gradient Boosting Classifier
+Half Grid Search,1.4,Gradient Boosting Classifier
+Half Grid Search,1.859871162,Gradient Boosting Classifier
+Half Grid Search,0.459871162,Gradient Boosting Classifier
+Grid Search,0,Gradient Boosting Classifier
+Grid Search,0.2,Gradient Boosting Classifier
+Grid Search,0.285714286,Gradient Boosting Classifier
+Grid Search,0,Gradient Boosting Classifier
+Grid Search,0.2,Gradient Boosting Classifier
+Grid Search,0.285714286,Gradient Boosting Classifier
+Grid Search,0,Gradient Boosting Classifier
+Grid Search,0.485714286,Gradient Boosting Classifier
+Grid Search,0.2,Gradient Boosting Classifier
+Grid Search,0.285714286,Gradient Boosting Classifier
+Genetic Algorithm,2.425843124,Gradient Boosting Classifier
+Genetic Algorithm,2.317014019,Gradient Boosting Classifier
+Genetic Algorithm,1.659871162,Gradient Boosting Classifier
+Genetic Algorithm,1.374156876,Gradient Boosting Classifier
+Genetic Algorithm,1.542857143,Gradient Boosting Classifier
+Genetic Algorithm,2.257142857,Gradient Boosting Classifier
+Genetic Algorithm,1.685714286,Gradient Boosting Classifier
+Genetic Algorithm,1.514285714,Gradient Boosting Classifier
+Genetic Algorithm,1.228571429,Gradient Boosting Classifier
+Genetic Algorithm,0.571428571,Gradient Boosting Classifier

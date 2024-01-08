@@ -1,0 +1,17 @@
+﻿ML_Model,Hyperparameter_Tuning,Testing_Improvement_Accuracy(%),Testing_Improvement_Precision(%),Testing_Improvement_Recall_(%),Testing_Improvement_F1_Score_(%),Testing_Improvement_ROC_AUC_(%)
+Gradient Boosting Classifier,Genetic Algorithm,1.196987253,0.988499767,1.196987253,1.12415004,0.563405617
+Gradient Boosting Classifier,Grid Search,1.172081148,0.928409962,1.172081148,1.084164011,0.488376737
+Gradient Boosting Classifier,Half Grid Search,1.173095941,0.946363836,1.173095941,1.090817812,0.515235553
+Gradient Boosting Classifier,Simulated Annealing,1.171202923,0.921989638,1.171202923,1.079833688,0.294588457
+Logistic Regression,Genetic Algorithm,-0.039743164,-0.017223526,-0.039743164,-0.032764401,-0.009612123
+Logistic Regression,Grid Search,-0.158619928,-0.031226978,-0.158619928,-0.124293498,0.020038808
+Logistic Regression,Half Grid Search,-0.000130111,0.01245118,-0.000130111,0.002507766,-0.002781889
+Logistic Regression,Simulated Annealing,-0.08017443,-0.015702219,-0.08017443,-0.062297537,-0.025336852
+Random Forest Classifier,Genetic Algorithm,0.366437503,0.421162469,0.366437503,0.389964082,0.12427104
+Random Forest Classifier,Grid Search,0.071575444,0.06583158,0.071575444,0.069861681,0.021034498
+Random Forest Classifier,Half Grid Search,0.047833991,0.048496031,0.047833991,0.046843652,0.058659029
+Random Forest Classifier,Simulated Annealing,0.201981448,0.203466345,0.201981448,0.201300724,0.074249186
+Support Vector Classifier,Genetic Algorithm,0.991651595,0.059427641,0.991651595,0.715997785,-0.499964552
+Support Vector Classifier,Grid Search,1.13930868,0.204909746,1.13930868,0.859987055,0.114021825
+Support Vector Classifier,Half Grid Search,-4.164696452,-2.217523684,-4.164696452,-3.57730745,-2.702422856
+Support Vector Classifier,Simulated Annealing,1.126546862,0.286946508,1.126546862,0.876641002,0.136332289

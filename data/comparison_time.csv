@@ -1,0 +1,17 @@
+﻿ML_Model,Hyperparameter_Tuning,mean,min,max,mean_hrs_mins,min_hrs_mins,max_hrs_mins
+Gradient Boosting Classifier,Genetic Algorithm,1055.943581,589.513017,1426.942249,1055.94 s,589.51 s,1426.94 s
+Gradient Boosting Classifier,Grid Search,70086.45702,65271.80599,77150.30916,19h 28m,18h 7m,21h 25m
+Gradient Boosting Classifier,Half Grid Search,4003.7325494000006,3477.55371,4256.744813,1h 6m,3477.55 s,1h 10m
+Gradient Boosting Classifier,Simulated Annealing,1559.892793,1260.954447,1887.040194,1559.89 s,1260.95 s,1887.04 s
+Logistic Regression,Genetic Algorithm,11.632629510000001,8.263256454,16.46082659,11.63 s,8.26 s,16.46 s
+Logistic Regression,Grid Search,32.51233244,29.61052232,35.32045713,32.51 s,29.61 s,35.32 s
+Logistic Regression,Half Grid Search,17.27705156,16.2133759,18.59419417,17.28 s,16.21 s,18.59 s
+Logistic Regression,Simulated Annealing,12.14114398,9.006492043,15.84743714,12.14 s,9.01 s,15.85 s
+Random Forest Classifier,Genetic Algorithm,326.5683808,218.9981392,399.4926117,326.57 s,219.00 s,399.49 s
+Random Forest Classifier,Grid Search,6325.778255,4275.295081,7108.953389,1h 45m,1h 11m,1h 58m
+Random Forest Classifier,Half Grid Search,1985.5548922000003,1325.545878,2295.524272,1985.55 s,1325.55 s,2295.52 s
+Random Forest Classifier,Simulated Annealing,347.7404766,324.0011707,385.0032061,347.74 s,324.00 s,385.00 s
+Support Vector Classifier,Genetic Algorithm,1330.0639191999999,1137.219321,1561.013207,1330.06 s,1137.22 s,1561.01 s
+Support Vector Classifier,Grid Search,2072.495388,1299.604413,2615.991725,2072.50 s,1299.60 s,2615.99 s
+Support Vector Classifier,Half Grid Search,42.564922960000004,33.14066095,55.47666435,42.56 s,33.14 s,55.48 s
+Support Vector Classifier,Simulated Annealing,1415.476682,1286.740749,1522.332763,1415.48 s,1286.74 s,1522.33 s

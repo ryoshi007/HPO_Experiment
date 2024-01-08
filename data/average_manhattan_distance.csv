@@ -1,0 +1,17 @@
+﻿Model,Method,Average Manhattan Distance
+Logistic Regression,Genetic Algorithm,2.695238
+Logistic Regression,Grid Search,0
+Logistic Regression,Half Grid Search,1.4
+Logistic Regression,Simulated Annealing,2.219048
+Support Vector Classifier,Genetic Algorithm,1.333333
+Support Vector Classifier,Grid Search,0
+Support Vector Classifier,Half Grid Search,0
+Support Vector Classifier,Simulated Annealing,0.933333
+Random Forest Classifier,Genetic Algorithm,2.3
+Random Forest Classifier,Grid Search,0.545
+Random Forest Classifier,Half Grid Search,2.405
+Random Forest Classifier,Simulated Annealing,1.07
+Gradient Boosting Classifier,Genetic Algorithm,1.657689
+Gradient Boosting Classifier,Grid Search,0.194286
+Gradient Boosting Classifier,Half Grid Search,0.973066
+Gradient Boosting Classifier,Simulated Annealing,1.748571

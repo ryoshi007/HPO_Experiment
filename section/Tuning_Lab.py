@@ -244,7 +244,7 @@ def generate_template_code(model_name, method, params, selected_metrics):
 
 def load_page():
     st.set_page_config(
-        # page_title="Tuning Methods Intro",
+        page_title="HPO Experiment",
         page_icon=smalltools.page_icon(),
         layout='wide'
     )

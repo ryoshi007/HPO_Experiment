@@ -147,7 +147,7 @@ def show_correlation():
         st.image(correlation_pic)
 
     with col2:
-        st.markdown("""There appears to be a strong positive linear relationship between 'Avg Open To Buy' and 'Credit Limit', which makes sense as 'Avg Open To Buy' is typically calculated as the difference between the credit limit and the current balance on the account. Therefore, as the credit limit increases, the 'Avg Open To Buy' would also increase if the balance remains constant or does not increase proportionally.
+        st.markdown("""There is a strong positive linear relationship between 'Avg Open To Buy' and 'Credit Limit', which makes sense as 'Avg Open To Buy' is typically calculated as the difference between the credit limit and the current balance on the account. Therefore, as the credit limit increases, the 'Avg Open To Buy' would also increase if the balance remains constant or does not increase proportionally.
         """)
 
 
@@ -382,7 +382,7 @@ def eda():
 
 def load_page():
     st.set_page_config(
-        # page_title="Tuning Methods Intro",
+        page_title="HPO Experiment",
         page_icon=smalltools.page_icon(),
         layout='wide'
     )
